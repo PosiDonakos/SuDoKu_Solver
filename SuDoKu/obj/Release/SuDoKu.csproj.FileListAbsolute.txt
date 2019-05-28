@@ -1,0 +1,8 @@
+G:\SuDoKu\SuDoKu\bin\Release\SuDoKu.exe.config
+G:\SuDoKu\SuDoKu\bin\Release\SuDoKu.exe
+G:\SuDoKu\SuDoKu\bin\Release\SuDoKu.pdb
+G:\SuDoKu\SuDoKu\obj\Release\SuDoKu.Game.resources
+G:\SuDoKu\SuDoKu\obj\Release\SuDoKu.Properties.Resources.resources
+G:\SuDoKu\SuDoKu\obj\Release\SuDoKu.csproj.GenerateResource.Cache
+G:\SuDoKu\SuDoKu\obj\Release\SuDoKu.exe
+G:\SuDoKu\SuDoKu\obj\Release\SuDoKu.pdb

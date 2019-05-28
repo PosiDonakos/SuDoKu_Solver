@@ -1,0 +1,59 @@
+E:\Sxoli\Visual Studio\Visual Studio 2017\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe.config
+E:\Sxoli\Visual Studio\Visual Studio 2017\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe
+E:\Sxoli\Visual Studio\Visual Studio 2017\SuDoKu\SuDoKu\bin\Debug\SuDoKu.pdb
+E:\Sxoli\Visual Studio\Visual Studio 2017\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csprojResolveAssemblyReference.cache
+E:\Sxoli\Visual Studio\Visual Studio 2017\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Game.resources
+E:\Sxoli\Visual Studio\Visual Studio 2017\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Properties.Resources.resources
+E:\Sxoli\Visual Studio\Visual Studio 2017\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csproj.GenerateResource.Cache
+E:\Sxoli\Visual Studio\Visual Studio 2017\SuDoKu\SuDoKu\obj\Debug\SuDoKu.exe
+E:\Sxoli\Visual Studio\Visual Studio 2017\SuDoKu\SuDoKu\obj\Debug\SuDoKu.pdb
+E:\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe.config
+E:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.exe
+E:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.pdb
+E:\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe
+E:\SuDoKu\SuDoKu\bin\Debug\SuDoKu.pdb
+E:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csprojResolveAssemblyReference.cache
+E:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Game.resources
+E:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Properties.Resources.resources
+E:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csproj.GenerateResource.Cache
+G:\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe.config
+G:\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe
+G:\SuDoKu\SuDoKu\bin\Debug\SuDoKu.pdb
+G:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Game.resources
+G:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Properties.Resources.resources
+G:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csproj.GenerateResource.Cache
+G:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.exe
+G:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.pdb
+G:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csprojResolveAssemblyReference.cache
+G:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.MainMenu.resources
+E:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.MainMenu.resources
+F:\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe.config
+F:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.exe
+F:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.pdb
+F:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csprojResolveAssemblyReference.cache
+F:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Game.resources
+F:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.MainMenu.resources
+F:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Properties.Resources.resources
+F:\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csproj.GenerateResource.Cache
+F:\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe
+F:\SuDoKu\SuDoKu\bin\Debug\SuDoKu.pdb
+E:\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe.config
+E:\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe
+E:\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\bin\Debug\SuDoKu.pdb
+E:\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csprojResolveAssemblyReference.cache
+E:\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Game.resources
+E:\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.MainMenu.resources
+E:\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Properties.Resources.resources
+E:\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csproj.GenerateResource.Cache
+E:\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.exe
+E:\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.pdb
+E:\Projects\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe.config
+E:\Projects\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\bin\Debug\SuDoKu.exe
+E:\Projects\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\bin\Debug\SuDoKu.pdb
+E:\Projects\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Game.resources
+E:\Projects\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.MainMenu.resources
+E:\Projects\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.Properties.Resources.resources
+E:\Projects\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csproj.GenerateResource.cache
+E:\Projects\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.csproj.CoreCompileInputs.cache
+E:\Projects\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.exe
+E:\Projects\Sxoli\Παρουσιαση SuDoKu Solver - Backtrack 2-6-17\SuDoKu\SuDoKu\obj\Debug\SuDoKu.pdb
